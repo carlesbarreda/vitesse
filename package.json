@@ -50,7 +50,7 @@
     "lint-staged": "^15.2.9",
     "markdown-it-link-attributes": "^4.0.1",
     "pnpm": "^9.8.0",
-    "rollup": "^4.21.0",
+    "rollup": "^4.59.0",
     "shiki": "^1.14.1",
     "simple-git-hooks": "^2.11.1",
     "taze": "^0.16.6",
